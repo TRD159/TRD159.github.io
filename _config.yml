@@ -25,7 +25,7 @@ author:
   name             : "Rohan Kancherla"
   bio              : "I am a college student at the University of Houston studying computer science."
   location         : "Houston, TX"
-  employer         : "University of Houston"
+  employer         : [University of Houston](cs.uh.edu)
   uri              : # URL
   email            : "rohan360k@gmail.com" 
 
